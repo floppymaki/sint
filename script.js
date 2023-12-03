@@ -1,4 +1,4 @@
-const code = "AAAAAAAAAAAAAAAAAAA";
+const code = "DIGIPEBRWA4G4E2RHUJ";
 
 const inputs = document.querySelectorAll('input');
 
